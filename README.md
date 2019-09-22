@@ -1,9 +1,7 @@
-# A1: Widgets and Event Handling (Java) -- JSketch
 > A vector-drawing program, consisting of a tool palette and a canvas.
 
-One to two paragraph statement about your product and what it does.
 
-## Feature Implemented
+#### Feature Implemented
 
 Menu bar with a File menu:
 1. New: Clear existing canvas and create a new drawing
