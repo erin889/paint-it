@@ -1,7 +1,10 @@
+## Paint-it
 > A vector-drawing program, consisting of a tool palette and a canvas.
 
+<img src="https://raw.githubusercontent.com/username/projectname/branch/path/to/img.pnghttps://raw.githubusercontent.com/erin889/paint-it/master/resources/demo.png" width="400" height="275">
 
-#### Feature Implemented
+
+#### Features
 
 Menu bar with a File menu:
 1. New: Clear existing canvas and create a new drawing
@@ -20,7 +23,7 @@ A color palette and line thickness palette:
 
 Select a shape and those palettes will update selected color and thickness accordingly.
 
-Additional Features:
+#### Additional Features:
 
 Support system-level copy/paste: use ctrl+c/v to copy and paste the canvas as an image to an outside program/
 
